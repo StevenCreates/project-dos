@@ -1,10 +1,16 @@
-# project-dos
+# BanKan
 
-##BanKan##
+## project-dos
 Sound file sharing app
 
-With the use of Node and Express Web Server
-Backed by a MySQL Database an ORM
-With file storage in an AWS S3 bucket
-GET and POST routes for retrieving and adding new data
-Deployed on heroku
+###
+This app we are bringing back the simplicity of sharing music between artists
+
+
+### How/Technologies
+
+-Node + Express Web Server
+-MySQL Database an ORM
+-File Storage AWS S3 bucket
+-GET and POST routes
+-Deployed on heroku
