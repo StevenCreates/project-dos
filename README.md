@@ -2,15 +2,13 @@
 
 ## project-dos
 Sound file sharing app
-
-###
 This app we are bringing back the simplicity of sharing music between artists
 
 
 ### How/Technologies
 
--Node + Express Web Server
--MySQL Database an ORM
--File Storage AWS S3 bucket
--GET and POST routes
--Deployed on heroku
+⋅⋅*Node + Express Web Server
+⋅⋅*MySQL Database an ORM
+⋅⋅*File Storage AWS S3 bucket
+⋅⋅*GET and POST routes
+⋅⋅*Deployed on heroku
