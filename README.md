@@ -18,3 +18,8 @@ Deployed on heroku
 
 User: stevenisinsane@gmail.com  
 PW: test  
+
+If you want to see admin pages add /admin/  
+
+like so  
+https://bankansoundshare.herokuapp.com/admin/members  
