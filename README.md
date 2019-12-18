@@ -12,3 +12,9 @@ MySQL Database an ORM
 File Storage AWS S3 bucket  
 GET and POST routes  
 Deployed on heroku  
+
+
+### Login
+
+User: stevenisinsane@gmail.com  
+PW: test  
